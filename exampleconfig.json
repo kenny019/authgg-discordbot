@@ -1,0 +1,8 @@
+{
+	"token": "discord token",
+	"auth": "auth.gg authorisation",
+	"prefix": "!",
+	"admins": [
+		"629386590241816596", "629386590241816596", "add any amount of admins"
+	]
+}

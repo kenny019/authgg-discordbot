@@ -1,0 +1,14 @@
+{
+  "name": "authgg-discordbot",
+  "version": "1.0.0",
+  "description": "discord bot to interact with auth.gg admin api",
+  "main": "index.js",
+  "scripts": {},
+  "author": "kenny019",
+  "license": "ISC",
+  "dependencies": {
+    "authgg-admin-api": "^1.0.2",
+    "discord.js": "^12.4.1",
+    "eslint": "^7.12.1"
+  }
+}
