@@ -1,5 +1,5 @@
 # authgg discord bot
-Fully featured auth.gg discord bot
+Fully featured auth.gg discord bot using my [authgg-admin-api wrapper](https://www.npmjs.com/package/authgg-admin-api)
 
 ## Requirements
 1. Discord Bot Token
