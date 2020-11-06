@@ -20,6 +20,7 @@ Fully featured auth.gg discord bot
 ## Quickstart
 
 ```
+curl -L -O https://github.com/kenny019/authgg-discordbot/archive/master.zip
 npm install
 node index.js // i recommend installing pm2 to run your bot
 
@@ -55,3 +56,6 @@ Changes user's variable. Usage: `!uservar this is my new variable`
 #
 ### auth.gg api documentation
 [https://setup.auth.gg/](https://setup.auth.gg/)
+
+### error/issues
+either make issue on github or contact me on discord `kenny#0001`
