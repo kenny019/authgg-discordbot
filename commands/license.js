@@ -39,7 +39,7 @@ function GenerateEmbed(data, index) {
 module.exports = {
 	name: 'license',
 	description: 'retrieve list of all license from auth.gg api',
-	usage: '',
+	usage: ' ',
 	guildOnly: false,
 	adminOnly: true,
 	execute(message) {

@@ -30,7 +30,7 @@ function GenerateEmbed(data, index) {
 module.exports = {
 	name: 'users',
 	description: 'retrieve list of all users from auth.gg api',
-	usage: '',
+	usage: ' ',
 	guildOnly: false,
 	adminOnly: true,
 	execute(message) {
