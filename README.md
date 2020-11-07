@@ -9,7 +9,8 @@ Fully featured auth.gg discord bot using my [authgg-admin-api wrapper](https://w
 ## Installation
 1. rename example.config.json to config.json
 2. put in discord bot token, auth.gg authorisation and replace admin discord ids with your own
-3. then look through !help for more info
+3. invite bot with manage messages and send messages permission
+4. then look through !help for more info
 
 
 ## Packages
@@ -43,6 +44,7 @@ Looksup a license or user. Usage: `!lookup user admin` or `!lookup license Q14HP
 ### !generate
 Generates license/s. Usage: `!generate [days] [amount] [level] [format?] [prefix?] [length?]` format, prefix and length are optional.
 Auth.gg example: [https://setup.auth.gg/admin/licenses#generate-license](https://setup.auth.gg/admin/licenses#generate-license)
+You cant set level to 0
 
 ### !userpass
 Changes user's password. Usage: `!userpass admin password1`
